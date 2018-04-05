@@ -1,0 +1,33 @@
+<ion-content padding>
+
+  <div class="center-container">
+    <h3>Hi {{displayName}}!</h3>
+
+    <img style="border-radius: 50%; height:80px; width:80px;" [src]="imageURL">
+      <h3>{{emotion1}}</h3>
+    </div>
+
+
+  <div style="margin-top: 2em;">
+  <ion-card *ngFor="let track of recommendedTracks">
+    <img style="height:100%; width:60px;float:left;" [src]="track.album.images[0].url">
+    <div>
+    <ion-card-header>
+      {{track.name}}
+    </ion-card-header>
+    <ion-card-content>
+      {{track.artists[0].name}}
+    </ion-card-content>
+  </div>
+  </ion-card>
+</div>
+
+  <div class="button-container">
+
+  <button ion-button (click)="makeAPlaylistOuttaTheseSongs()">Make a playlist outta these songs</button>
+  <button ion-button (click)="getMoreRecommendations()">Get different songs</button>
+
+  <button ion-button (click)="takePicture()">Retake Pic</button>
+  <button ion-button (click)="logout()">Switch user</button>
+  </div>
+</ion-content>
