@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ambient-stone-200120",
+  "private_key_id": "86efc450a6b2f46d957eebdba19efae3e7340e74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDl6KhUAlcRxF1u\nOrIaA8oU2ut3G6k1x3b7vQnmBMAdYj1C6jiyo0d30cFA8OSoDFHFkTqQU/Vm7ety\npgJacIv6t9tBqt20QqrFb2/2sYRGn438oKn/v1oPoB1Sx3x6EitxRCarwYnYFOFR\njUO32K/ibFp3Vr+/MdSUHhmQ6EoK+lmN7CDGikUUiTd7gmx9kTTdErHCTManLoRn\nrK7KygBCb2JX9NMqrBGd71wDHPuoNr+Rs7Ij2nV+e+Qj/RPgrpiiOwRWAn29Zqxj\nmPgGqZEwuNGexvAX9DhAxjAbp66GkCAbo2HIlwwqlQlzCcoaGOcP3e7ztMl4/L0y\noRT300dfAgMBAAECggEADmU4cPYqjH6+mOHM+AsHsrGYb79II4lnPlDyVzgx7UUS\n7+cpgKnvliWIk6/hqVIIJrY2tAXFxlmcVfPmDtKgOSUc8eoocpqABde563jm/uML\nqWdH7a8GDRdp7p52AVC07qUlRLjcEC8SgqA1PsQvEx7UtUc1v1t344RU9nlM9Y3j\n+JtAx38Cs3jZpMjHQz4lrqmASXsma8ZrvgczyEqG7/lLL+D8Iz+rzyOQKmSIBzKh\nxNTsFwd03x0Op/im8S4MjsZUhB12F3OnRXFFZuc5K4bZ8fifiIy+oIbhq4Ku2hv7\nYzNDIfEo7lk8nLPK4u0DrHcRfm/Ra6rt5VUYfZpTJQKBgQD8sVks+r+8bym9PZLD\nkPsksVZvgNRMNkagpw7x+DazCcgvRWnDw/ITD4XY9wBnSU5mRXebvL77N2ygNJdI\nOa50/vsWFKDsw+P4/oveXmr3yT0jrkkyqP/CR4uyeBq2RBCGZFixid7US/g595j2\nxqnc7i/ZyLT9V0hcsEQ80BS2DQKBgQDo6vid+AkoIuPSWnuGnFUfz3SUqx/1gGsl\n8mdJYMuvIr3F6vLeeewOKiKPbwMRmIrFsgFTM2L6WeeSOj3Hy38sSgON52wYu0P1\nPKdb1m7xkidV7JZ5w+gw5UO2Ksfu0j7gG2FgSO7AVoHstraRNu39CCYth39yk+k+\ntgTEReNkGwKBgEwzYvPobbdyQkD5928YIlPvUmRvkhWlbGj3187qDfyxn3d51Cof\nxbkvviouWiXLemPm4OnK4kC5dv1cvp4eHtjTJ36CHAEqFW45vI4DJPix68j9vr8T\nLYU1tA/OnieGoQEV85UeQV79xc4dNzh7si+YeD+Rgdq/3mdtFDbOfOBlAoGAS4Pj\nF1RTo6+sLYcohXwqHSYlpg3VTsNT+fmdgyze3OlmncSO+ZKN9gmzKs3TMOFEHNSZ\nmWAPtxtu+PnpDd3sXW+ht2BQq7QLVHdVy3C6h5fbKQCLyO67WR771RQJvmRr/jzi\nVVVQEwv5E8YpautkPaVmu1wy9fL+rFZXNUtzbgECgYEA2lRi6M5yILxrypbFXeQ0\nGoUi27c+TPOsGLhkMI9lVhoAF48r5MVWw3fcsuAX2CcxZesc5H6pVA6B/dtoRoCu\nyUIhmbiddFHXeMHbFMFcwE3sEn2u+TjVgTnfIw+4+bR8V9fvsTOei0FoCoTxW5Zk\nQBogx7A8nL7rnNsfWdAtt4A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "detectemotion@ambient-stone-200120.iam.gserviceaccount.com",
+  "client_id": "116669705359565556486",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/detectemotion%40ambient-stone-200120.iam.gserviceaccount.com"
+}
